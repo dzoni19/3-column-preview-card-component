@@ -14,7 +14,7 @@ Users should be able to:
 <img width="799" alt="2021-11-24 11_20_36-" src="https://user-images.githubusercontent.com/63516391/143220578-e1b37801-e1a4-4f28-b2f5-5504690e4915.png">
 nshot
 
-<a href="">Click to See</a>
+<a href="https://dzoni19.github.io/3-column-preview-card-component/">Click to See</a>
 
 
 ## My process
